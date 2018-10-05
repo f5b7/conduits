@@ -3,15 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.openshift.quickstarts</groupId>
-        <artifactId>todolist-parent</artifactId>
-        <version>1.2.0.Final</version>
+        <groupId>f5b7</groupId>
+        <artifactId>conduits</artifactId>
+        <version>1</version>
     </parent>
 
-    <artifactId>todolist-jdbc</artifactId>
+    <artifactId>conduits-jdbc</artifactId>
 
     <packaging>war</packaging>
-    <name>OpenShift Quickstarts: Todo List: JDBC</name>
 
     <properties>
         <jboss-servlet-api_3.0_spec.version>1.0.0.Final</jboss-servlet-api_3.0_spec.version>

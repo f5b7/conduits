@@ -2,11 +2,11 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.openshift.quickstarts</groupId>
-    <artifactId>todolist-parent</artifactId>
-    <version>1.2.0.Final</version>
+    <groupId>f5b7</groupId>
+    <artifactId>conduits</artifactId>
+    <version>1</version>
+
     <packaging>pom</packaging>
-    <name>OpenShift Quickstarts: Todo List: Parent</name>
 
     <properties>
         <!-- Explicitly declaring the source encoding eliminates the following 
@@ -28,7 +28,7 @@
     </properties>
 
     <modules>
-        <module>todolist-jdbc</module>
+        <module>conduits-jdbc</module>
     </modules>
 
 </project>
