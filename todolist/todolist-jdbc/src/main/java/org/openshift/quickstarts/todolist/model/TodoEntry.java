@@ -2,9 +2,6 @@ package org.openshift.quickstarts.todolist.model;
 
 import java.io.Serializable;
 
-/**
- *
- */
 public class TodoEntry {
 
     private Serializable id;

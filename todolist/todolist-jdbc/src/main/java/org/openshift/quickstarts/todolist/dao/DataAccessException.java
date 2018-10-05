@@ -1,8 +1,5 @@
 package org.openshift.quickstarts.todolist.dao;
 
-/**
- *
- */
 public class DataAccessException extends RuntimeException {
 
     public DataAccessException() {

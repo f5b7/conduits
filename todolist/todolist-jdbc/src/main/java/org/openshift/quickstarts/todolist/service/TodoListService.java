@@ -6,9 +6,6 @@ import org.openshift.quickstarts.todolist.model.TodoEntry;
 
 import java.util.List;
 
-/**
- *
- */
 public class TodoListService {
 
     private TodoListDAO dao = new JdbcTodoListDAO();
